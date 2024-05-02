@@ -1,6 +1,6 @@
 # Чек-листы ads.vk.com
 
-## [Страница центр коммерции] (https://ads.vk.com/hq/ecomm/catalogs)
+## Страница центр коммерции (https://ads.vk.com/hq/ecomm/catalogs)
 
 ![image](https://github.com/flioletty/homework-3-spring-2024/assets/92665311/82340918-e984-4f91-a85b-156fd5795351)
 
